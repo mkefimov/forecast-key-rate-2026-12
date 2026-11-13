@@ -91,7 +91,7 @@ outcome:
 
 ## Источники и код
 
-- [Код курсовой работы](https://github.com/mkefimov/Philips-Curve-Inflation-and-Economic-Growth-Modelling-in-R): гибридная кривая Филлипса, модели OLS/HAC, GLS AR(1), GMM и проверки устойчивости.
+- [Код курсовой работы](Philips%20curve.R): гибридная кривая Филлипса, модели OLS/HAC, GLS AR(1), GMM и проверки устойчивости.
 - [Решение Банка России от 23 октября 2026 года](https://www.cbr.ru/press/keypr/).
 - [Резюме обсуждения от 5 ноября 2026 года](https://www.cbr.ru/dkp/mp_dec/decision_key_rate/summary_key_rate_05112026/).
 - [Комментарий к среднесрочному прогнозу от 5 ноября 2026 года](https://www.cbr.ru/dkp/mp_dec/decision_key_rate/comment_05112026/).
